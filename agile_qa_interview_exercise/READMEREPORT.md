@@ -4,7 +4,7 @@
 
 
 
-**Question To Ask **
+**Question To Ask**
 
 1. Can the strings contains combination of numbers and symbols
 2. What should happen when adding more than 4 strings at once
